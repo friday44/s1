@@ -1,0 +1,15 @@
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.csproj.AssemblyReference.cache
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.AssemblyInfoInputs.cache
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.AssemblyInfo.cs
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.csproj.CoreCompileInputs.cache
+C:\geek\ex\ex10\bin\MCD\Debug\net6.0\ex10.exe
+C:\geek\ex\ex10\bin\MCD\Debug\net6.0\ex10.deps.json
+C:\geek\ex\ex10\bin\MCD\Debug\net6.0\ex10.runtimeconfig.json
+C:\geek\ex\ex10\bin\MCD\Debug\net6.0\ex10.dll
+C:\geek\ex\ex10\bin\MCD\Debug\net6.0\ex10.pdb
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.dll
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\refint\ex10.dll
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.pdb
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ex10.genruntimeconfig.cache
+C:\geek\ex\ex10\obj\MCD\Debug\net6.0\ref\ex10.dll
